@@ -1,8 +1,8 @@
 # [![Discord][discordImg]][discordLink] <img src="https://www.arbitriumstudios.com/assets/images/logos/as-logo.png" align="right" width="200" height="auto" />
 
-## What is Arbitrium Studios?
+## What is the Arbitrium Studios Organization *.github* Repository?
 
-> Arbitrium Studios is an organization run by Gracie Thalassys Lovelight that makes Media, websites, Discord Bots, and more!
+> The *.github* Repository is for the "Arbitrium Studios Organization".
 
 ## Contributors:
 
