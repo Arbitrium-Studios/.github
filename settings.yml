@@ -126,7 +126,7 @@ labels:
 
   - name: Duplicate
     # If including a `#`, make sure to wrap it with quotes!
-    color: '#'cfd3d7
+    color: '#cfd3d7'
     description: Use this when the issue or pull request already exists.
 
   - name: Good First Issue
