@@ -1,4 +1,4 @@
-# [![Discord][discordImg]][discordLink] <img src="https://www.arbitriumstudios.com/assets/images/logos/as-logo.png" align="right" width="200" height="auto" />
+# [![Discord][discordImg]][discordLink] <img src="https://cdn.arbitriumstudios.com/cdn_assets/brand_assets/images/logos/512-as-logo.png" align="right" width="200" height="auto" />
 
 ## What is the Arbitrium Studios Organization *.github* Repository?
 
@@ -10,4 +10,4 @@
 
 [discordImg]: https://img.shields.io/discord/775528645086543895?color=6aa6ff&label=Arbitrium%20Studios&style=for-the-badge
 
-[discordLink]: https://discord.com/invite/5xmBA8stzY
+[discordLink]: https://discord.com/invite/besx99KFcK
