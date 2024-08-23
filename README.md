@@ -1,13 +1,17 @@
-# [![Discord][discordImg]][discordLink] <img src="https://cdn.arbitriumstudios.com/cdn_assets/brand_assets/images/logos/512-as-logo.png" align="right" width="200" height="auto" />
+# <p style="font-size: 0.5em;">Arbitrium Studios presents...</p> The Arbitrium Studios Organization *.github* Repository
+
+## [![Arbitrium Studios Discord Server](https://img.shields.io/discord/775528645086543895?color=6aa6ff&label=Arbitrium%20Studios&style=for-the-badge)](https://www.discord.com/invite/besx99KFcK)
+
+<img src="https://cdn.arbitriumstudios.com/site_assets/as_assets/brand_assets/logos/as-logo_v2.2.png" alt="The image shows the English letters 'A' and 'S' together which represent the Arbitrium Studios brand!" title="The Arbitrium Studios site logo" float="left" width="256" height="256">
 
 ## What is the Arbitrium Studios Organization *.github* Repository?
 
 > The *.github* Repository is for the "Arbitrium Studios Organization".
 
-## Contributors:
+### What is Arbitrium Studios?
 
-> All contributors will be found on the Arbitrium Studios website's [Credits](https://www.arbitriumstudios.com/credits) page
+- Arbitrium Studios is an organization which creates videos, livestreams, films, books, websites, and more!
 
-[discordImg]: https://img.shields.io/discord/775528645086543895?color=6aa6ff&label=Arbitrium%20Studios&style=for-the-badge
+### Who are the staff who have contributed to the development of the projects?
 
-[discordLink]: https://discord.com/invite/besx99KFcK
+- For a list of all contributors, please head to the Arbitrium Studios [Credits](https://www.arbitriumstudios.com/credits) Page and the [Toontown Fantasy](https://toontownfantasy.com/#ttfan-mts-section)!
