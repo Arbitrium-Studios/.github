@@ -1,13 +1,17 @@
-# [![Discord][discordImg]][discordLink] <img src="https://cdn.arbitriumstudios.com/cdn_assets/brand_assets/images/logos/512-as-logo.png" align="right" width="200" height="auto" />
+# <div><p style="font-size: 0.5em; display: flex; flex-direction: row;">Arbitrium Studios presents...</p> The Arbitrium Studios Organization *.github* Repository</div>
 
-## What is Arbitrium Studios?
+### <img src="https://cdn.arbitriumstudios.com/site_assets/as_assets/brand_assets/logos/as-logo_v2.2.png" alt="The image shows the English letters 'A' and 'S' together which represent the Arbitrium Studios brand!" title="The Arbitrium Studios site logo" style="display: flex; flex-direction: row;" width="80" height="80">
 
-> Arbitrium Studios is an organization run by Gracie Thalassys Lovelight that makes Media, websites, Discord Bots, and more!
+### [![Arbitrium Studios Discord Server](https://img.shields.io/discord/775528645086543895?color=6aa6ff&label=Arbitrium%20Studios&style=for-the-badge)](https://www.discord.com/invite/besx99KFcK)
 
-## Contributors:
+### What is the Arbitrium Studios Organization *.github* Repository?
 
-> All contributors will be found on the Arbitrium Studios website's [Credits](https://www.arbitriumstudios.com/credits) page
+The *.github* Repository is for the "Arbitrium Studios Organization".
 
-[discordImg]: https://img.shields.io/discord/775528645086543895?color=6aa6ff&label=Arbitrium%20Studios&style=for-the-badge
+### What is Arbitrium Studios?
 
-[discordLink]: https://discord.com/invite/besx99KFcK
+Arbitrium Studios is an organization which creates videos, livestreams, films, books, websites, and more!
+
+### Who are the staff who have contributed to the development of the projects?
+
+- For a list of all contributors, please head to the Arbitrium Studios [Credits](https://www.arbitriumstudios.com/credits) Page and the [Toontown Fantasy](https://toontownfantasy.com/#ttfan-mts-section)!
