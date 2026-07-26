@@ -1,9 +1,8 @@
-
 # ==============================================================
 #            GitHub WILL Ignore These File Names:
 # ==============================================================
 
-
+* - Copy*
 
 # ==============================================================
 #         GitHub WILL Ignore These File Extensions:
@@ -23,6 +22,7 @@ None
 *.db-journal
 *.sqlite3
 *.code-workspace
+*.lnk
 
 # ==============================================================
 #       GitHub WILL Ignore These Folder Directories:
